@@ -1,16 +1,25 @@
 # reminder
 
-A new Flutter application.
+This app reminds me for my left task(currently i made it for my personal use that's why i hav't uploaded it because of privacy credentials).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a Flutter application.
+*) Support Crud Operation on database
+*) Support Notifications
+### First screen
+![alt text](https://github.com/themockingjester/Reminder/blob/main/screenshots/mainscreen.jpeg)
+#### To do's
+![alt text](https://github.com/themockingjester/Reminder/blob/main/screenshots/todotask.jpeg)
+### Task's details
+![alt text](https://github.com/themockingjester/Reminder/blob/main/screenshots/tasklist.jpeg)
+### Screen for updating task frequency
+![alt text](https://github.com/themockingjester/Reminder/blob/main/screenshots/updatetask.jpeg)
+### Screen for removing a task
+![alt text](https://github.com/themockingjester/Reminder/blob/main/screenshots/remove task.jpeg)
+### Screen for adding a task
+![alt text](https://github.com/themockingjester/Reminder/blob/main/screenshots/taskadd.jpeg)
+### Notification support
+![alt text](https://github.com/themockingjester/Reminder/blob/main/screenshots/notification1.jpeg)
+![alt text](https://github.com/themockingjester/Reminder/blob/main/screenshots/notification2.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
