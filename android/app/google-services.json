@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47641318403",
+    "project_id": "reminder-8c71d",
+    "storage_bucket": "reminder-8c71d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47641318403:android:8e9d7d9273bfe262e7aa36",
+        "android_client_info": {
+          "package_name": "com.themockingjester.reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47641318403-omc5q568k78945ea2jhjmmfcdrsm8raq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg8zKIO1KEfPXV13UcUmjJaguJNxobKBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47641318403-omc5q568k78945ea2jhjmmfcdrsm8raq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
